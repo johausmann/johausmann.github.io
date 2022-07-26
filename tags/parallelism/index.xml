@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>parallelism on JoHa blog</title>
-    <link>https:://johausmann.github.io/tags/parallelism/</link>
+    <link>https://johausmann.github.io/tags/parallelism/</link>
     <description>Recent content in parallelism on JoHa blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jul 2022 11:38:49 +0200</lastBuildDate><atom:link href="https:://johausmann.github.io/tags/parallelism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jul 2022 11:38:49 +0200</lastBuildDate><atom:link href="https://johausmann.github.io/tags/parallelism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GNU parallel tutorial</title>
-      <link>https:://johausmann.github.io/parallel_tutorial/</link>
+      <link>https://johausmann.github.io/parallel_tutorial/</link>
       <pubDate>Tue, 26 Jul 2022 11:38:49 +0200</pubDate>
       
-      <guid>https:://johausmann.github.io/parallel_tutorial/</guid>
+      <guid>https://johausmann.github.io/parallel_tutorial/</guid>
       <description>This page lists different use cases of GNU parallel in bioinformatics
 parallel ::: gzip </description>
     </item>
